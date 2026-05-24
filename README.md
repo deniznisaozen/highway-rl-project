@@ -2,7 +2,7 @@
 
 ![Evolution](assets/evolution.gif)
 
-**Student:** [Your Name]
+**Student:** DENIZ NISA OZEN - LEVENT SARIOGLU
 **Course:** CMP4501 – Applied Reinforcement Learning
 **Track:** Option A – Autonomous Driving with Highway-Env
 
@@ -32,7 +32,7 @@ The GIF above shows the agent's progression across three training stages:
 
 The reward function is a weighted combination of three objectives designed to produce safe, fast, and disciplined driving behavior:
 
-$$R_t = \alpha \cdot \text{speed\_reward} + \beta \cdot \text{collision\_penalty} + \gamma \cdot \text{lane\_reward}$$
+$R_t = \alpha \cdot \text{speed\_reward} + \beta \cdot \text{collision\_penalty} + \gamma \cdot \text{lane\_reward}$
 
 Where:
 
