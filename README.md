@@ -2,10 +2,12 @@
 
 ![Evolution](assets/evolution.gif)
 
-**Student:** Deniz Nisa Ozen
+
+**Student:** Deniz Nisa Ozen - Levent Sarıoglu
 **Course:** CMP4501 – Applied Reinforcement Learning
 **Track:**  Autonomous Driving with Highway-Env
 
+> 🚀 Uploaded on May 24, 2026
 ---
 
 ## 📌 Project Overview
