@@ -4,8 +4,8 @@
 
 **Student:** DENIZ NISA OZEN - LEVENT SARIOGLU
 **Course:** CMP4501 – Applied Reinforcement Learning
-**Track:** Option A – Autonomous Driving with Highway-Env
-
+**Track:** Option A – Autonomous Driving with Highway
+**Github Link:** https://github.com/deniznisaozen/highway-rl-project
 ---
 
 ## 📌 Project Overview

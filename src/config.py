@@ -51,7 +51,7 @@ class EnvConfig:
 
 @dataclass
 class TrainConfig:
-    """Training hyperparameters for DQN."""
+    
 
     algorithm: str = "DQN"
     total_timesteps: int = 30_000
